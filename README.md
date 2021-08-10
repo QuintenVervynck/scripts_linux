@@ -1,12 +1,5 @@
 The bash scripts I use on Linux (Ubuntu)
 
-# backup
-Script for incrementing backups
-when the drive you back your files up to is not connected you can still check which files are required to be backed up
-### setup
-1. mkdir ~/.data 2> /dev/null
-2. mkdir ~/.data/backup
-
 # duck
 Todo script, listens to the name duck
 ### setup
